@@ -1,6 +1,6 @@
 <!-- SideNav.vue -->
 <template>
-    <q-drawer show-if-above :value="true" color="primary">
+    <q-drawer show-if-above :value="true" class="bg-primary text-white">
         <q-list>
             <q-item clickable v-ripple>
                 <q-item-section>Item 1</q-item-section>
@@ -11,14 +11,14 @@
                     Item 2
                 </q-item-section>
                 <q-menu anchor="top end" self="top start">
-                    <q-list>
-                        <q-item clickable>
+                    <q-list class="bg-primary">
+                        <q-item clickable class="bg-primary text-white">
                             <q-item-section>Sub-item 1</q-item-section>
                         </q-item>
-                        <q-item clickable>
+                        <q-item clickable class="bg-primary text-white">
                             <q-item-section>Sub-item 2</q-item-section>
                         </q-item>
-                        <q-item clickable>
+                        <q-item clickable class="bg-primary text-white">
                             <q-item-section>Sub-item 3</q-item-section>
                         </q-item>
                     </q-list>
