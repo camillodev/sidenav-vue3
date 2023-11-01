@@ -1,6 +1,6 @@
 # 🌟 Sidenav Vue 3 to Pure JavaScript 🌟
 
-![Project Screenshot](Your_Image_URL_Here)
+<img width="1157" alt="Project Screenshot" src="https://github.com/camillodev/sidenav-vue3/assets/17439106/f38b8cd8-37ed-45fe-a16b-d0c0da50981a">
 
 This project demonstrates how to build a sidebar navigation component in Vue 3 and convert it into pure JavaScript for broader compatibility. The real-world problem this addresses was originally solved at a logistics company. However, due to NDA constraints, specific details can't be disclosed. This repo serves as a practical example.
 
@@ -62,4 +62,4 @@ For further configuration details, see the [Vue CLI Configuration Reference](htt
 
 ---
 
-![Footer Image](Your_Footer_Image_URL_Here)
+<img width="270" alt="Rafael Camillo Logo" src="https://github.com/camillodev/sidenav-vue3/assets/17439106/88b26d6f-a545-41d4-8aac-ab346d37223f">
