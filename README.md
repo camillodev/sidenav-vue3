@@ -1,24 +1,65 @@
-# sidenav-vue3
+# 🌟 Sidenav Vue 3 to Pure JavaScript 🌟
 
-## Project setup
-```
+![Project Screenshot](Your_Image_URL_Here)
+
+This project demonstrates how to build a sidebar navigation component in Vue 3 and convert it into pure JavaScript for broader compatibility. The real-world problem this addresses was originally solved at a logistics company. However, due to NDA constraints, specific details can't be disclosed. This repo serves as a practical example.
+
+---
+
+## 📚 Article & Special Branch 📚
+
+📖 **For a detailed walkthrough, check out my [blog article](https://www.rafaelcamillo.com/blog/converting-vue3-to-pure-js).**
+
+🔀 **The converted pure JavaScript solution can be found in the branch [sidenav-js](https://github.com/camillodev/sidenav-vue3/tree/sidenav-js).**
+
+---
+
+## 🚀 Quick Start 🚀
+
+### 🛠 Project Setup 🛠
+
+First, install the project dependencies:
+
+\```bash
 yarn install
-```
+\```
 
-### Compiles and hot-reloads for development
-```
+---
+
+### 💻 Development Server 💻
+
+To run the project in development mode:
+
+\```bash
 yarn serve
-```
+\```
 
-### Compiles and minifies for production
-```
+---
+
+### 🏗 Build for Production 🏗
+
+To compile and minify the project for production:
+
+\```bash
 yarn build
-```
+\```
 
-### Lints and fixes files
-```
+---
+
+### 🧹 Linting and Fixes 🧹
+
+To lint and fix files:
+
+\```bash
 yarn lint
-```
+\```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+---
+
+### ⚙ Configuration ⚙
+
+For further configuration details, see the [Vue CLI Configuration Reference](https://cli.vuejs.org/config/).
+
+---
+
+![Footer Image](Your_Footer_Image_URL_Here)
